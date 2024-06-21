@@ -9,12 +9,12 @@
 <img alt="People" src="https://img.shields.io/github/contributors/FQ211776/rf-bare-minimum?style=flat&color=ffaaf2&label=People"> </a>
 
 <a href="https://github.com/FQ211776/bare-minimum/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/FQ211776/bare-minimum?style=flat&color=98c379&label=Stars"></a>
+<img alt="Stars" src="https://img.shields.io/github/stars/FQ211776/rf-bare-minimum?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/FQ211776/bare-minimum/network/members">
+<a href="https://github.com/FQ211776/rf-bare-minimum/network/members">
 <img alt="Forks" src="https://img.shields.io/github/forks/FQ211776/bare-minimum?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/FQ211776/bare-minimum/watchers">
+<a href="https://github.com/FQ211776/rf-bare-minimum/watchers">
 <img alt="Watches" src="https://img.shields.io/github/watchers/FQ211776/rf-bare-minimum?style=flat&color=f5d08b&label=Watches"> </a>
 
 <a href="https://github.com/FQ211776/rf-bare-minimum/pulse">
