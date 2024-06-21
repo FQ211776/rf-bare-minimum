@@ -1,24 +1,24 @@
 <div align = "center">
 
-<h1><a href="https://github.com/2kabhishek/bare-minimum">bare-minimum</a></h1>
+<h1><a href="https://github.com/FQ211776/rf-bare-minimum">bare-minimum</a></h1>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/bare-minimum?style=flat&color=eee&label="> </a>
+<a href="https://github.com/FQ211776/rf-bare-minimum/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/FQ211776/rf-bare-minimum?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/bare-minimum?style=flat&color=ffaaf2&label=People"> </a>
+<a href="https://github.com/FQ211776/rfbare-minimum/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/FQ211776/rf-bare-minimum?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/bare-minimum?style=flat&color=98c379&label=Stars"></a>
+<a href="https://github.com/FQ211776/bare-minimum/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/FQ211776/bare-minimum?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/bare-minimum?style=flat&color=66a8e0&label=Forks"> </a>
+<a href="https://github.com/FQ211776/bare-minimum/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/FQ211776/bare-minimum?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/bare-minimum?style=flat&color=f5d08b&label=Watches"> </a>
+<a href="https://github.com/FQ211776/bare-minimum/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/FQ211776/rf-bare-minimum?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/bare-minimum?style=flat&color=e06c75&label="> </a>
+<a href="https://github.com/FQ211776/rf-bare-minimum/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/FQ211776/rf-bare-minimum?style=flat&color=e06c75&label="> </a>
 
 <h3>Short Sweet Headline 🎇🎉</h3>
 
@@ -86,15 +86,15 @@ bare-minimum was inspired by `<reason/idea>`.
 
 ### 🧰 Tooling
 
-- [dots2k](https://github.com/2kabhishek/dots2k) — Dev Environment
-- [nvim2k](https://github.com/2kabhishek/nvim2k) — Personalized Editor
-- [sway2k](https://github.com/2kabhishek/sway2k) — Desktop Environment
-- [qute2k](https://github.com/2kabhishek/qute2k) — Personalized Browser
+- [dots2k](https://github.com/FQ211776/dots2k) — Dev Environment
+- [nvim2k](https://github.com/FQ211776/nvim2k) — Personalized Editor
+- [sway2k](https://github.com/FQ211776/sway2k) — Desktop Environment
+- [qute2k](https://github.com/FQ211776/qute2k) — Personalized Browser
 
 ### 🔍 More Info
 
-- [shelly](https://github.com/2kabhishek/shelly) — Command line template
-- [tiny-web](https://github.com/2kabhishek/tiny-web) — Web app template
+- [shelly](https://github.com/FQ211776/shelly) — Command line template
+- [tiny-web](https://github.com/FQ211776/tiny-web) — Web app template
 
 <hr>
 
@@ -102,7 +102,7 @@ bare-minimum was inspired by `<reason/idea>`.
 
 <strong>⭐ hit the star button if you found this useful ⭐</strong><br>
 
-<a href="https://github.com/2KAbhishek/bare-minimum">Source</a>
+<a href="https://github.com/FQ211776/rf-bare-minimum">Source</a>
 | <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a>
 | <a href="https://twitter.com/2kabhishek" target="_blank">Twitter </a>
 | <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a>
