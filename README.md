@@ -5,7 +5,7 @@
 <a href="https://github.com/FQ211776/rf-bare-minimum/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/FQ211776/rf-bare-minimum?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/FQ211776/rfbare-minimum/graphs/contributors">
+<a href="https://github.com/FQ211776/rf-bare-minimum/graphs/contributors">
 <img alt="People" src="https://img.shields.io/github/contributors/FQ211776/rf-bare-minimum?style=flat&color=ffaaf2&label=People"> </a>
 
 <a href="https://github.com/FQ211776/bare-minimum/stargazers">
