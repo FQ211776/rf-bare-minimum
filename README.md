@@ -50,15 +50,15 @@ Installing bare-minimum is as simple as cloning and symlinking!
 
 ```bash
 git clone https://github.com/FQ211776/rf-bare-minimum
-cd bare-minimum
+cd rf-bare-minimum
 <install_command>
 ```
 
 ```bash
-git clone https://github.com/2kabhishek/shelly
-cd shelly
+git clone https://github.com/FQ211776/rf-bare-minimum
+cd rf-bare-minimum
 # Link mkrepo to a directory that's in PATH (~/.local/bin here)
-ln -sfnv "$PWD/shelly.sh" ~/.local/bin/shelly
+ln -sfnv "$PWD/template.sh" ~/.local/bin/template
 ```
 
 
