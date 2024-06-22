@@ -35,7 +35,7 @@ bare-minimum is a `<utility/tool>` that allows `<target_audience>` to `<action>`
 ## ✨ Features
 
 - Comes with a ready to go README template
-- Works with [mkrepo](https://github.com/2kabhishek/mkrepo)
+- Works with [mkrepo](https://github.com/FQ211776/rf-mkrepo)
 
 ## ⚡ Setup
 
@@ -49,10 +49,18 @@ bare-minimum is a `<utility/tool>` that allows `<target_audience>` to `<action>`
 Installing bare-minimum is as simple as cloning and symlinking!
 
 ```bash
-git clone https://github.com/2kabhishek/bare-minimum
+git clone https://github.com/FQ211776/rf-bare-minimum
 cd bare-minimum
 <install_command>
 ```
+
+```bash
+git clone https://github.com/2kabhishek/shelly
+cd shelly
+# Link mkrepo to a directory that's in PATH (~/.local/bin here)
+ln -sfnv "$PWD/shelly.sh" ~/.local/bin/shelly
+```
+
 
 ## 🚀 Usage
 
@@ -103,10 +111,10 @@ bare-minimum was inspired by `<reason/idea>`.
 <strong>⭐ hit the star button if you found this useful ⭐</strong><br>
 
 <a href="https://github.com/FQ211776/rf-bare-minimum">Source</a>
-| <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a>
-| <a href="https://twitter.com/2kabhishek" target="_blank">Twitter </a>
-| <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a>
-| <a href="https://2kabhishek.github.io/links" target="_blank">More Links </a>
-| <a href="https://2kabhishek.github.io/projects" target="_blank">Other Projects </a>
+| <a href="https://FQ211776.github.io/blog" target="_blank">Blog </a>
+| <a href="https://twitter.com/FQ211776" target="_blank">Twitter </a>
+| <a href="https://linkedin.com/in/FQ211776" target="_blank">LinkedIn </a>
+| <a href="https://FQ211776.github.io/links" target="_blank">More Links </a>
+| <a href="https://fq211776.github.io/rf-projects/" target="_blank">Other Projects </a>
 
 </div>
