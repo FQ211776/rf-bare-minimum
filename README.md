@@ -60,7 +60,21 @@ cd rf-bare-minimum
 # Link mkrepo to a directory that's in PATH (~/.local/bin here)
 ln -sfnv "$PWD/template.sh" ~/.local/bin/template
 ```
+```bash
+git clone https://github.com/2kabhishek/nvim2k
+```
 
+On Linux and Mac
+
+```bash
+ln -sfnv $PWD/nvim2k $HOME/.config/nvim
+```
+
+On Windows Powershell
+
+```powershell
+New-Item -ItemType SymbolicLink -Path "$env:LOCALAPPDATA\nvim" -Target "$PWD\nvim2k" -Force
+```
 
 ## 🚀 Usage
 
